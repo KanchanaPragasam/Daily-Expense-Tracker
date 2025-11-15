@@ -1,0 +1,26 @@
+Daily Expense Tracker – MERN Full-Stack Application”
+Project Problem Statement
+
+Individuals often struggle to keep track of their daily spending and don’t have a simple way to monitor where their money goes. There is a need for a clean, easy-to-use application that helps users record expenses, categorize them, view history, and understand their monthly spending habits.
+
+Project Goal
+
+Build a full-stack web application where users can securely log in and manage their daily expenses. The system should allow the user to add, edit, delete, and view expenses along with a monthly summary.
+
+
+📘 Project Requirements (Clearly Stated as a Question)
+“Build a MERN application that solves the following problem:”
+
+1️⃣ How can a user securely create an account and log in to track personal expenses?
+2️⃣ How can a user add daily expenses with details like amount, date, category, and notes?
+3️⃣ How can the user edit or delete previously added expenses?
+4️⃣ How can the system store and retrieve expenses from a database efficiently?
+5️⃣ How can the user view total monthly spending and category-wise summary?
+6️⃣ How can the application present the spending data visually (chart/graph)?
+
+
+🎯 Final Project Question (One-Liner)
+“Design and develop a MERN-based Daily Expense Tracker that allows users to authenticate, manage their expenses, and view monthly spending summaries with visual charts.”
+
+
+For MongoDB : https://youtu.be/1b9Ijrg2PpI?si=tkv3--Scf8qopU_V
